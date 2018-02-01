@@ -1,8 +1,7 @@
 {
   "name": "react-contact-list",
-  "version": "1.0",
+  "version": "0.1.0",
   "description": "This repo is my first project with React, coding-along with the React Nanodegree program",
-  "private": true,
   "author": "Stefano Veltri",
   "dependencies": {
     "escape-string-regexp": "^1.0.5",

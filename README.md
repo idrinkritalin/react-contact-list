@@ -10,7 +10,7 @@ This repo is my first project with React, coding-along with the [React Nanodegre
 * start the project with yarn or npm - `npm start` or `yarn start`
 * you will be able to listen the server on http://localhost:3000
 
-## Dependencies and some fancy packages used in this project:**
+## Dependencies and some fancy packages used in this project:
 
 * React - https://reactjs.org
 * React Router DOM - https://www.npmjs.com/package/react-router-dom
