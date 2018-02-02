@@ -5,7 +5,7 @@ This repo is my first project with React, coding-along with the [React Nanodegre
 
 * clone the project - `git clone https://github.com/idrinkritalin/react-contact-list.git`
 * install the dependencies - `npm install`
-* clone the repo and install the dependencies from the ContactsAPI (provided from the Course) - `git clone https://github.com/udacity/reactnd-contacts-server.git`
+* clone the repo and install the dependencies from the ContactsAPI (provided from the Course) - `git clone https://github.com/udacity/reactnd-contacts-server.git` & `npm install`
 * open the reactnd-contacts-server and start the server `node server.js`
 * BE SURE that the server is up and running!
 * start the project with yarn or npm - `npm start` or `yarn start`
